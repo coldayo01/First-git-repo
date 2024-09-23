@@ -16,3 +16,4 @@ ps        # Display running processes
 top       # Show real-time system processes
 df        # Show disk space usage
 du        # Show file space usage
+grep      
