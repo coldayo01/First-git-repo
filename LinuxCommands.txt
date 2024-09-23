@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+# Basic Linux Commands
+
+ls        # List directory contents
+cd        # Change directory
+pwd       # Print working directory
+mkdir     # Make a new directory
+rm        # Remove files or directories
+cp        # Copy files or directories
+mv        # Move or rename files or directories
+chmod     # Change file permissions
+chown     # Change file ownership
+ps        # Display running processes
+top       # Show real-time system processes
+df        # Show disk space usage
+du        # Show file space usage
