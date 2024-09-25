@@ -1,3 +1,3 @@
 # echo
 # variable
-# if
+# function
